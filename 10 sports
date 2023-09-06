@@ -19,3 +19,63 @@ http://103.162.136.103:25461/live/FAH/fah/218.m3u8
 http://103.162.136.103:25461/live/FAH/fah/220.m3u8
 #EXTINF:-1,Sony Six HD
 http://103.162.136.103:25461/live/FAH/fah/213.m3u8
+EXTINF:-1,MTV80
+http://151.248.16.100:4444/MTV80/index.m3u8
+#EXTINF:-1,n-tv
+http://151.248.16.100:4444/n-tv/index.m3u8
+#EXTINF:-1,MTV HD
+http://151.248.16.100:4444/MTV/index.m3u8
+#EXTINF:-1,ESPN1 HD
+http://151.248.16.100:4444/ESPN1/index.m3u8
+#EXTINF:-1,NPO1 HD
+http://151.248.16.100:4444/NPO1/index.m3u8
+#EXTINF:-1,NPO2 HD
+http://151.248.16.100:4444/NPO2/index.m3u8
+#EXTINF:-1,BabyTV
+http://151.248.16.100:4444/BabyTV/index.m3u8
+#EXTINF:-1,ZDF HD
+http://151.248.16.100:4444/ZDF/index.m3u8
+#EXTINF:-1,DiscoveryScience HD
+http://151.248.16.100:4444/DiscoveryScience/index.m3u8
+#EXTINF:-1,ComedyCentral HD
+http://151.248.16.100:4444/ComedyCentral/index.m3u8
+#EXTINF:-1,ESPN2 HD
+http://151.248.16.100:4444/ESPN2/index.m3u8
+#EXTINF:-1,NationalGeographic HD
+http://151.248.16.100:4444/NationalGeographic/index.m3u8
+#EXTINF:-1,Dusk
+http://151.248.16.100:4444/Dusk/index.m3u8
+#EXTINF:-1,SUPERRTL
+http://151.248.16.100:4444/SUPERRTL/index.m3u8
+#EXTINF:-1,Nicktoons
+http://151.248.16.100:4444/Nicktoons/index.m3u8
+#EXTINF:-1,CartoonNetwork HD
+http://151.248.16.100:4444/CartoonNetwork/index.m3u8
+#EXTINF:-1,Nick_Jr
+http://151.248.16.100:4444/Nick_Jr/index.m3u8
+#EXTINF:-1,VOX
+http://151.248.16.100:4444/VOX/index.m3u8
+#EXTINF:-1,History HD
+http://151.248.16.100:4444/History/index.m3u8
+#EXTINF:-1,TLC HD
+http://151.248.16.100:4444/TLC/index.m3u8
+#EXTINF:-1,Fox HD
+http://151.248.16.100:4444/Fox/index.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://151.248.16.100:4444/Eurosport2/index.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://151.248.16.100:4444/Eurosport1/index.m3u8
+#EXTINF:-1,Disney HD
+http://151.248.16.100:4444/Disney/index.m3u8
+#EXTINF:-1,Discovery HD
+http://151.248.16.100:4444/Discovery/index.m3u8
+#EXTINF:-1,AnimalPlanet HD
+http://151.248.16.100:4444/AnimalPlanet/index.m3u8
+#EXTINF:-1,DasErste
+http://151.248.16.100:4444/DasErste/index.m3u8
+#EXTINF:-1,KabelEins
+http://151.248.16.100:4444/KabelEins/index.m3u8
+#EXTINF:-1,MTV90s
+http://151.248.16.100:4444/MTV90s/index.m3u8
+#EXTINF:-1,Pro7MAXX
+http://151.248.16.100:4444/Pro7MAXX/index.m3u8
