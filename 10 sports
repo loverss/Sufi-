@@ -1,6 +1,7 @@
 #EXTINF:-1,Ten Sports HD
 http://103.162.136.103:25461/live/FAH/fah/121.m3u8
-
+#EXTINF:-1, ASTRO_CRICKET 
+https://m2.ballnaja.com:8443/ASTRO_CRICKET/playlist.m3u8
 #EXTINF:-1,PTV Sports HD
 http://103.162.136.103:25461/live/FAH/fah/123.m3u8
 #EXTINF:-1,Geo Super
