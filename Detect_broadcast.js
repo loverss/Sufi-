@@ -1,4 +1,9 @@
-var reply = "❤️"
+var reply = "-❤️-"
+var reply = "-❤️-"
+var reply = "-❤️-"
+var reply = "-❤️-"
+var reply = "-❤️-"
+var reply = "-❤️-"
 
 
 // © HERMIT-MD
