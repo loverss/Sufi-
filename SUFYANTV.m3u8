@@ -30,4 +30,16 @@ http://38.76.152.22:8000/play/a00h/index.m3u8
 http://38.76.152.22:8000/play/a06m/index.m3u8
 #EXTINF:-1,PIGAM TV 
 http://38.76.152.22:8000/play/a04h/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,GTV NEWS 
+http://38.76.152.22:8000/play/a05m/index.m3u8
+#EXTINF:-1,QURAN LIVE 
+http://38.76.152.22:8000/play/a03m/index.m3u8
+#EXTINF:-1, Q Tv
+http://38.76.152.22:8000/play/a04m/index.m3u8
+#EXTINF:-1,MTCL
+http://38.76.152.22:8000/play/a07m/index.m3u8
+#EXTINF:-1, Lahore 
+http://38.76.152.22:8000/play/a05m/index.m3u8
+#EXTINF:-1,sjf
+http://38.76.152.22:8000/play/a06m/index.m3u8
+
