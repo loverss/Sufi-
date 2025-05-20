@@ -24,8 +24,8 @@ http://38.76.152.22:8000/play/a01s/index.m3u8
 http://38.76.152.22:8000/play/a00r/index.m3u8
 #EXTINF:-1,STAR GOLD 2 
 http://38.76.152.22:8000/play/a00g/index.m3u8
-#EXTINF:-1,3
-
+#EXTINF:-1, SONY MAX 2 
+http://38.76.152.22:8000/play/a00h/index.m3u8
 #EXTINF:-1,ST
 
 #EXTINF:-1,STA
