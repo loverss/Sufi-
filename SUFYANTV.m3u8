@@ -1,5 +1,7 @@
 #EXTINF:-1,COLORS TV 
 http://38.76.152.22:8000/play/a00a/index.m3u8
+#EXTINF:-1,COLORS CINPLEX
+http://38.76.152.22:8000/play/a01a/index.m3u8
 #EXTINF:-1,star gold
 http://38.76.152.22:8000/play/a00f/index.m3u8
 #EXTINF:-1,& TV
