@@ -60,4 +60,5 @@ http://38.76.152.22:8000/play/a03c/index.m3u8
 http://38.76.152.22:8000/play/a04c/index.m3u8
 #EXTINF:-1,K NETWORK 
 http://38.76.152.22:8000/play/a00k/index.m3u8
-
+#EXTINF:-1,POGO TV 
+http://38.76.152.22:8000/play/a00l/index.m3u8
