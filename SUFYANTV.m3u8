@@ -64,3 +64,5 @@ http://38.76.152.22:8000/play/a00k/index.m3u8
 http://38.76.152.22:8000/play/a00l/index.m3u8
 #EXTINF:-1,NIKJR
 http://38.76.152.22:8000/play/a00m/index.m3u8
+#EXTINF:-1,Try
+http://38.76.152.22:8000/play/a00r/index.m3u8
