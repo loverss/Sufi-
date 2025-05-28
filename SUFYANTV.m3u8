@@ -52,6 +52,8 @@ http://38.76.152.22:8000/play/a05m/index.m3u8
 http://38.76.152.22:8000/play/a02y/index.m3u8
 #EXTINF:-1,PUBLIC TV 
 http://38.76.152.22:8000/play/a03u/index.m3u8
+#EXTINF:-1,ARY NEWS 
+http://38.76.152.22:8000/play/a02z/index.m3u8
 #EXTINF:-1,DUNYA NEWS 
 http://38.76.152.22:8000/play/a04u/index.m3u8
 #EXTINF:-1,HUM TV DRAMA 
