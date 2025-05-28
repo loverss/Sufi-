@@ -48,6 +48,8 @@ http://38.76.152.22:8000/play/a04m/index.m3u8
 http://38.76.152.22:8000/play/a07m/index.m3u8
 #EXTINF:-1, Lahore 
 http://38.76.152.22:8000/play/a05m/index.m3u8
+#EXTINF:-1,CITY 21
+http://38.76.152.22:8000/play/a05z/index.m3u8
 #EXTINF:-1,CAPITAL TV
 http://38.76.152.22:8000/play/a02y/index.m3u8
 #EXTINF:-1,PUBLIC TV 
