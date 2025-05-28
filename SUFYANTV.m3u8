@@ -48,4 +48,15 @@ http://38.76.152.22:8000/play/a07m/index.m3u8
 http://38.76.152.22:8000/play/a05m/index.m3u8
 #EXTINF:-1,CAPITAL TV
 http://38.76.152.22:8000/play/a02y/index.m3u8
+#EXTINF:-1,PUBLIC TV 
+http://38.76.152.22:8000/play/a03u/index.m3u8
+#EXTINF:-1,DUNYA NEWS 
+http://38.76.152.22:8000/play/a04u/index.m3u8
+#EXTINF:-1,HUM TV DRAMA 
+http://38.76.152.22:8000/play/a06c/index.m3u8
+#EXTINF:-1,A PLUS 
+http://38.76.152.22:8000/play/a03c/index.m3u8
+#EXTINF:-1,FILMAZIA 
+http://38.76.152.22:8000/play/a04c/index.m3u8
+
 
