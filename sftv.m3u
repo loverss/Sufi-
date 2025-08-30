@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1,3 series CUP 2025
 https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index_1.m3u8
-#EXTINF:-1, TENSPORT SUFI 03036971399 
+#EXTINF:-1, ARYNEWS SUFI 03036971399 
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8
-#EXTINF:-1,GEO NEWS SUFYANJAN 
-https://cdn02khi.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vast-geonews-L/chunk.m3u8
+#EXTINF:-1,Colors Cineplex Bollywood
+http://66.102.120.18:8000/play/a01a/index.m3u8
+#EXTINF:-1, STAR GOLD
+http://66.102.120.18:8000/play/a00f/index.m3u8
