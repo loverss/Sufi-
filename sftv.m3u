@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, ASIA CUP AD FREE 
+https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream_720p.m3u8
 #EXTINF:-1, PTV SPORTS HD 
 https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/live/189H/chunks.m3u8
 #EXTINF:-1, PTV SPORTS LOW QUALITY 
