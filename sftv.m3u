@@ -37,4 +37,21 @@ https://cdn12isb.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
 #EXTINF:-1, SAMAA TV 
 https://cdn02khi.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8
-
+#EXTINF:-1,Hungama
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1, Disney 
+http://103.182.170.32:8888/play/a04b
+#EXTINF:-1, Disney Channel
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1, B4u music 
+http://89.187.189.98/B4UMUSIC/index.m3u8
+#EXTINF:-1, B4u movies
+http://89.187.189.98/B4UMOVIES/index.m3u8
+#EXTINF:-1, B4u kadak
+http://89.187.189.98/B4UKADAK/index.m3u8
+#EXTINF:-1, Mnx hd
+http://89.187.189.98/MNXHD/index.m3u8
+#EXTINF:-1, Sony max 2
+http://89.187.189.98/SONYMAX2/index.m3u8
+#EXTINF:-1, SONY MX2 
+http://89.187.189.98/SONYMAX2/index.m3u8
