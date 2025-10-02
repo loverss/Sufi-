@@ -83,9 +83,9 @@ http://89.187.189.98/ZING/index.m3u8
 http://51.15.7.9:3141/colorshd/index.m3u8
 #EXTINF:-1, Sony pix
 http://51.15.7.9:3141/pix/index.m3u8
-#EXTINF:-1, Zee Cafe
+#EXTINF:-1,Zee Cafe
 http://51.15.7.9:3141/cafe/index.m3u8
-#EXTINF:-1, epic HD
+#EXTINF:-1,epic HD
 http://51.15.7.9:3141/epic/index.m3u8
-#EXTINF:-1, Zee Cinema HD
+#EXTINF:-1,Zee Cinema HD
 http://51.15.7.9:3141/zeecinema/index.m3u8
