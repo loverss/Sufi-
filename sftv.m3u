@@ -79,3 +79,13 @@ http://51.15.7.9:3141/starmovies/index.m3u8
 http://89.187.189.98/ZOOMTV/index.m3u8
 #EXTINF:-1, Zing 
 http://89.187.189.98/ZING/index.m3u8
+#EXTINF:- Colors hd
+http://51.15.7.9:3141/colorshd/index.m3u8
+#EXTINF:- Sony pix
+http://51.15.7.9:3141/pix/index.m3u8
+#EXTINF:- Zee Cafe
+http://51.15.7.9:3141/cafe/index.m3u8
+#EXTINF:- epic HD
+http://51.15.7.9:3141/epic/index.m3u8
+#EXTINF:- Zee Cinema HD
+http://51.15.7.9:3141/zeecinema/index.m3u8
