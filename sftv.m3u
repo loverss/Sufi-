@@ -69,7 +69,7 @@ http://89.187.189.98/HUNGAMAKIDS/index.m3u8
 http://89.187.189.98/POGOKIDS/index.m3u8
 #EXTINF:-1,SONYYAY
 http://89.187.189.98/SONYYAY/index.m3u8
-#EXTINF:-1, 503
+#EXTINF:-1, Sky sports cricket 
 http://178.33.239.54:8080/503/index.m3u8
 #EXTINF:-1, star plus
 http://51.15.7.9:3141/starplus/index.m3u8
@@ -79,28 +79,6 @@ http://51.15.7.9:3141/stargold/index.m3u8
 http://51.15.7.9:3141/stargold2/index.m3u8
 #EXTINF:-1, Star movies 
 http://51.15.7.9:3141/starmovies/index.m3u8
-#EXTINF:-1, Masti 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
-#EXTINF:-1, Dabanggin
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
-#EXTINF:-1, Enter 10 Bangla
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1, 9x tashan
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1, Maiboli
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8
-#EXTINF:-1, 9x jhakass 
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1, Balle balle
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-balleballe-samsungin/playlist.m3u8
-#EXTINF:-1, Pitaara tv
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8
-#EXTINF:-1, 9x jalwa
-https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-#EXTINF:-1, TV9 BANGLA 
-https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1, History HINDI 
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1,Zoom tv
 http://89.187.189.98/ZOOMTV/index.m3u8
 #EXTINF:-1, Zing 
