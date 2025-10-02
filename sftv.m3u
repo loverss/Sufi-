@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, ASIA CUP AD FREE 
-https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream_720p.m3u8
 #EXTINF:-1, PTV SPORTS HD 
 https://tv.elb.com.pk/play/VDeely_kEYpv8munpxDVgInSgnzIxq5Vs8BR-BFiIyw/m3u8
 #EXTINF:-1, STARSPORTSSELECT1HD
@@ -13,8 +11,6 @@ https://tv.elb.com.pk/play/VDeely_kEYpv8munpxDVgC3kRoALUDIe_xYeZlM29Js/m3u8
 http://178.33.239.54:8080/503/index.m3u8
 #EXTINF:-1, QURAN TV
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/live/vsat-150H/chunks.m3u8
-#EXTINF:-1,3 series CUP 2025
-https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index_1.m3u8
 #EXTINF:-1, ARYNEWS SUFI 03036971399 
 https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8
 #EXTINF:-1,GEO NEWS HD 
