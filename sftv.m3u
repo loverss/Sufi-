@@ -28,7 +28,7 @@ https://cdn02khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks
 #EXTINF:-1, CITY 42 
 https://cdn02khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8
 #EXTINF:-1, CARTOONNETWORK 
-https://cdn12isb.tamashaweb.com:8087/jazzauth/cartoonnetwork-abr/live/livesoon/chunks.m3u8
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1, EXPRESS NEWS 
 https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
 #EXTINF:-1, ARYDIGITAL-ABR 
