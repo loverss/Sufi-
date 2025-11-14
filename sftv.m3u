@@ -1,93 +1,17 @@
 #EXTM3U
-#EXTINF:-1, PTV SPORTS HD 
-https://tv.elb.com.pk/play/VDeely_kEYpv8munpxDVgInSgnzIxq5Vs8BR-BFiIyw/m3u8
-#EXTINF:-1, STARSPORTSSELECT1HD
-http://89.187.189.98/STARSPORTSSELECT1HD/index.m3u8
-#EXTINF:-1,STARSPORTSSELECT2HD
-http://89.187.189.98/STARSPORTSSELECT2HD/index.m3u8
-#EXTINF:-1, Ten SPORTS LOW QUALITY 
-https://tv.elb.com.pk/play/VDeely_kEYpv8munpxDVgC3kRoALUDIe_xYeZlM29Js/m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://178.33.239.54:8080/503/index.m3u8
-#EXTINF:-1, QURAN TV
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/Saudimakkah(nw)-abr/live/vsat-150H/chunks.m3u8
-#EXTINF:-1, ARYNEWS SUFI 03036971399 
-https://cdn02khi.tamashaweb.com:8087/jazzauth/ARYnews-abr/live/vsat-arynews-L/chunks.m3u8
-#EXTINF:-1,GEO NEWS HD 
-https://cdn12isb.tamashaweb.com:8087/jazzauth/geoNews-abr/live/vsat-93H/chunks.m3u8
-#EXTINF:-1, LAHORE RUNG
-https://cdn12isb.tamashaweb.com:8087/jazzauth/LahoreRung-abr/live/vsat-86H/chunks.m3u8
-#EXTINF:-1, SEE TV HD 
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/seeTV-abr/live/vsat-136H/chunks.m3u8
-#EXTINF:-1, JALWA HD
-https://cdn02khi.tamashaweb.com:8087/jazzauth/jalwa-abr/live/vsat-81H/chunks.m3u8
-#EXTINF:-1, 8 XM HD 
-https://cdn12isb.tamashaweb.com:8087/jazzauth/8xm-abr/live/vsat-128H/chunks.m3u8
-#EXTINF:-1, HUM TV HD 
-https://cdn02khi.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks.m3u8
-#EXTINF:-1, CITY 42 
-https://cdn02khi.tamashaweb.com:8087/jazzauth/city42(vnw)-abr/live/vsat-111H/chunks.m3u8
-#EXTINF:-1, CARTOONNETWORK 
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1, EXPRESS NEWS 
-https://cdn12isb.tamashaweb.com:8087/jazzauth/expressnews-abr/live/vsat-91H/chunks.m3u8
-#EXTINF:-1, ARYDIGITAL-ABR 
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-L/chunks.m3u8
-#EXTINF:-1, HUM TV DRAMA 
-https://cdn12isb.tamashaweb.com:8087/jazzauth/humTV-abr/live/vsat-humtv-H/chunks.m3u8
-#EXTINF:-1, ARY DIGITAL 
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/live/vsat-ary-H/chunks.m3u8
-#EXTINF:-1, SAMAA TV 
-https://cdn02khi.tamashaweb.com:8087/jazzauth/samaaTV-abr/live/vsat-123H/chunks.m3u8
-#EXTINF:-1,Hungama
-http://103.182.170.32:8888/play/a04b
-#EXTINF:-1, Disney 
-http://103.182.170.32:8888/play/a04b
-#EXTINF:-1, Disney Channel
-http://103.182.170.32:8888/play/a04g
-#EXTINF:-1, B4u music 
-http://89.187.189.98/B4UMUSIC/index.m3u8
-#EXTINF:-1, B4u movies
-http://89.187.189.98/B4UMOVIES/index.m3u8
-#EXTINF:-1, B4u kadak
-http://89.187.189.98/B4UKADAK/index.m3u8
-#EXTINF:-1, Mnx hd
-http://89.187.189.98/MNXHD/index.m3u8
-#EXTINF:-1, Sony max 2
-http://89.187.189.98/SONYMAX2/index.m3u8
-#EXTINF:-1, SONY MX2 
-http://89.187.189.98/SONYMAX2/index.m3u8
-#EXTINF:-1,MOVIESNOWHD
-http://89.187.189.98/MOVIESNOWHD/index.m3u8
-#EXTINF:-1, HUNGAMAKIDS
-http://89.187.189.98/HUNGAMAKIDS/index.m3u8
-#EXTINF:-1, POGOKIDS
-http://89.187.189.98/POGOKIDS/index.m3u8
-#EXTINF:-1,SONYYAY
-http://89.187.189.98/SONYYAY/index.m3u8
-#EXTINF:-1, Sky sports cricket 
-http://178.33.239.54:8080/503/index.m3u8
-#EXTINF:-1, star plus
-http://51.15.7.9:3141/starplus/index.m3u8
-#EXTINF:-1, Star gold 
-http://51.15.7.9:3141/stargold/index.m3u8
-#EXTINF:-1, Star gold 
-http://51.15.7.9:3141/stargold2/index.m3u8
-#EXTINF:-1, Star movies 
-http://51.15.7.9:3141/starmovies/index.m3u8
-#EXTINF:-1,Zoom tv
-http://89.187.189.98/ZOOMTV/index.m3u8
-#EXTINF:-1, Zing 
-http://89.187.189.98/ZING/index.m3u8
-#EXTINF:-1, Colors hd
-http://51.15.7.9:3141/colorshd/index.m3u8
-#EXTINF:-1, Sony pix
-http://51.15.7.9:3141/pix/index.m3u8
-#EXTINF:-1,Zee Cafe
-http://51.15.7.9:3141/cafe/index.m3u8
-#EXTINF:-1,epic HD
-http://51.15.7.9:3141/epic/index.m3u8
-#EXTINF:-1,Zee Cinema HD
-http://51.15.7.9:3141/zeecinema/index.m3u8
-#EXTINF:-1, Bollywood Hd
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1, PTV SPORTS HD 1
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1, PTV SPORTS HD 2
+http://66.102.120.18:8000/play/a01g/index.m3u8
+#EXTINF:-1, PTV SPORTS HD 3
+http://66.102.120.18:8000/play/a05f/index.m3u8
+#EXTINF:-1, PTV SPORTS HD 3
+http://66.102.120.18:8000/play/a03o/index.m3u8
+#EXTINF:-1, PTV SPORTS HD 5
+http://66.102.120.18:8000/play/a03p/index.m3u8
+#EXTINF:-1, PTV SPORTS HD 6
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1, PTV SPORTS HD 7
+http://66.102.120.18:8000/play/a01y/index.m3u8
+#EXTINF:-1, PTV SPORTS HD 8
+http://66.102.120.18:8000/play/a001/index.m3u8
