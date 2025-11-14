@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, ASPORTS HD
 http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1, 360P Pakistan vs Sri Lanka ODI Series 2025
+https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index_3.m3u8
 #EXTINF:-1, JAZZ FREE CRICKET HD 
 https://alibabacdn5.tamashaweb.com/alibaba05/alibaba05stream_720p.m3u8
 #EXTINF:-1, PTV SPORTS HD 
