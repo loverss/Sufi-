@@ -10,7 +10,7 @@ http://66.102.120.18:8000/play/a04w/index.m3u8
 #EXTINF:-1, Sony SPORTS HD
 http://66.102.120.18:8000/play/a01y/index.m3u8
 #EXTINF:-1, hid
-66.102.120.18:8000/play/a00r/index.m3u8
+http://66.102.120.18:8000/play/a00r/index.m3u8
 #EXTINF:-1,Star Gold Select HD - Rs 8.00
 66.102.120.18:8000/play/a01s/index.m3u8
 #EXTINF:-1,Star Gold Thrills - Rs 2.00
